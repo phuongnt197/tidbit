@@ -29,4 +29,4 @@ amount of effort and time from the individual.
 Diet-conscious individuals may struggle to estimate the ingredients that make up certain foods
 and predict the overall calorie count.
 
-More details can be found in our [proposal](Preproposal_Tidbit_Eaty Bitties.pdf) and [report](EatyBitties_Final_Report.pdf).
+More details can be found in our [proposal](Preproposal_Tidbit_Eaty\ Bitties.pdf) and [report](EatyBitties_Final_Report.pdf).
